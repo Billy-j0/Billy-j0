@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Billy-j0
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning google data analytics professional certificate course
 - 📫 How to reach me williamjonson077@gmail.com
 
 <!---
