@@ -26,7 +26,7 @@
 For me, data analysis is a way to identify a pattern, to detect a key problem among outliers and to tell a valuable story to make an impact :bar_chart:.
 
 **Fun Facts:**
-- :writing_hand: Technologies that I use  **```SQL```**, **```Python```**, **```R```**,**```Excel```**,**```Tableau```**
+- :writing_hand: Technologies that I use  **```SQL```**, **```Python```**, **```R```**,**```Excel```**,**```Tableau```**,**```Power BI```**
 - :sparkles: **My greatest passion:** Using data to tell stories and derive insights for business success.
     
 ## View My Repositories 👇
